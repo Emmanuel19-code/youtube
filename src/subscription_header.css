@@ -1,0 +1,15 @@
+.subheader{
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+.manage{
+    display: flex;
+    align-items: center;
+    margin-right: 40px;
+}
+.icon {
+    margin-right: 20px;
+}

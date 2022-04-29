@@ -1,0 +1,8 @@
+.watch_later{
+    display: flex;
+}
+.watch_l_partition{
+background-color: #f9f9f9;
+    display: flex;
+    flex: 0.8;
+}

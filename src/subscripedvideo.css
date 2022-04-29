@@ -1,0 +1,28 @@
+.subscriped{
+    margin-left: 20px;
+}
+.subscriped>img{
+    width: 210px;
+    height: 140px;
+    border: 1px solid black;
+    object-fit: contain;
+}
+.sub_time{
+    margin-left: 10px;
+    color: grey;
+}
+.channel_info{
+    display: flex;
+    color: grey;
+}
+.view{
+    color: grey;
+}
+.status{
+    color: red;
+    border: 1px solid red;
+    width: 100px;
+    font-weight: bold;
+    border-radius: 4px;
+    text-align: center;
+}

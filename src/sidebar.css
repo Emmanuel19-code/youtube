@@ -1,0 +1,20 @@
+.sidebar {
+    flex: 0.2;
+}
+
+.sidebar>hr {
+    height: 1px;
+    border: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+}
+.more{
+    margin-left: 16px;
+    color: gray;
+    font-weight: bold;
+}
+.watch_later{
+    text-decoration: none;
+    color: black;
+}

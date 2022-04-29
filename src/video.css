@@ -1,0 +1,35 @@
+.video {
+    width: 270px;
+    margin-bottom: 40px;
+}
+
+.video_thumb {
+    height: 140px;
+    width: 250px;
+}
+
+.vidoe_info {
+    margin-top: 10px;
+    padding-right: 30px;
+    display: flex;
+}
+
+.video_text {
+    margin-left: 15px;
+}
+
+.video_text>h4 {
+    font-size: 14px;
+    margin-bottom: 5px;
+
+}
+
+.video_text>p {
+    font-size: 14px;
+    color: gray;
+}
+
+.avatar {
+    height: 30px !important;
+    width: 30px !important;
+}

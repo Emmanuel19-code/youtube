@@ -1,0 +1,14 @@
+.subscription{
+    display: flex;
+}
+.subscription_page{
+    width: 100%;
+    flex: 0.8;
+    background-color: #f9f9f9;
+}
+.sub_videos{
+    display:flex;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-top: 30px;
+}
